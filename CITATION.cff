@@ -6,8 +6,5 @@ authors:
     orcid: https://orcid.org/0009-0000-7554-6882
 title: "Distributed optimisation"
 version: 1.0.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.14495010
+doi: 10.5281/zenodo.14495009
 date-released: 2024-15-12
-url: "https://github.com/GrgicevicLukaNTNU/Optimization/blob/main/Consensus%20and%20distributed%20optimization/Consensus%20and%20distributed%20optimization%20in%20NetLogo.pdf"
